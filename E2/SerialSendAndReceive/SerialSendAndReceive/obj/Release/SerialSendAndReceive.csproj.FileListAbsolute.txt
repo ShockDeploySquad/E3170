@@ -1,0 +1,9 @@
+Z:\计网\实验\实验二\C#\SerialSendAndReceive\SerialSendAndReceive\bin\Release\SerialSendAndReceive.exe.config
+Z:\计网\实验\实验二\C#\SerialSendAndReceive\SerialSendAndReceive\bin\Release\SerialSendAndReceive.exe
+Z:\计网\实验\实验二\C#\SerialSendAndReceive\SerialSendAndReceive\bin\Release\SerialSendAndReceive.pdb
+Z:\计网\实验\实验二\C#\SerialSendAndReceive\SerialSendAndReceive\obj\Release\SerialSendAndReceive.csprojAssemblyReference.cache
+Z:\计网\实验\实验二\C#\SerialSendAndReceive\SerialSendAndReceive\obj\Release\SerialSendAndReceive.MainWin.resources
+Z:\计网\实验\实验二\C#\SerialSendAndReceive\SerialSendAndReceive\obj\Release\SerialSendAndReceive.Properties.Resources.resources
+Z:\计网\实验\实验二\C#\SerialSendAndReceive\SerialSendAndReceive\obj\Release\SerialSendAndReceive.csproj.GenerateResource.cache
+Z:\计网\实验\实验二\C#\SerialSendAndReceive\SerialSendAndReceive\obj\Release\SerialSendAndReceive.exe
+Z:\计网\实验\实验二\C#\SerialSendAndReceive\SerialSendAndReceive\obj\Release\SerialSendAndReceive.pdb
